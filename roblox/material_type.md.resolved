@@ -1,0 +1,53 @@
+# Material Type
+
+Enum type of the material system.
+
+## Values
+
+| Name | Value |
+| :--- | :--- |
+| RUBBER | 2311 |
+| PLASTER | 2310 |
+| LEATHER | 2309 |
+| ROOFSHINGLES | 2308 |
+| CLAYFOOFTILES | 2307 |
+| CERAMICTILES | 2306 |
+| CARPET | 2305 |
+| CARDBOARD | 2304 |
+| WATER | 2048 |
+| AIR | 1792 |
+| FORCEFIELD | 1584 |
+| GLASS | 1568 |
+| GLACIER | 1552 |
+| ICE | 1536 |
+| SALT | 1392 |
+| ASPHALT | 1376 |
+| GROUND | 1360 |
+| MUD | 1344 |
+| SNOW | 1328 |
+| FABRIC | 1312 |
+| SAND | 1296 |
+| LEAFYGRASS | 1284 |
+| GRASS | 1280 |
+| METAL | 1088 |
+| FOIL | 1072 |
+| DIAMONDPLATE | 1056 |
+| CORRODEDMETAL | 1040 |
+| SANDSTONE | 912 |
+| ROCK | 896 |
+| COBBLESTONE | 880 |
+| PEBBLE | 864 |
+| BRICK | 848 |
+| PAVEMENT | 836 |
+| GRANITE | 832 |
+| LIMESTONE | 820 |
+| CONCRETE | 816 |
+| CRACKEDLAVA | 804 |
+| SLATE | 800 |
+| BASALT | 788 |
+| MARBLE | 784 |
+| WOODPLANKS | 528 |
+| WOOD | 512 |
+| NEON | 288 |
+| SMOOTHPLASTIC | 272 |
+| PLASTIC | 256 |
